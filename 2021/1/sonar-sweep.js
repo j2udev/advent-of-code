@@ -34,10 +34,10 @@ function sonarSweep3(report) {
   return counter;
 }
 
-console.log("Using reducer with external counter: ", sonarSweep1(sonarReadings));
-console.log("Using reducer with internal counter: ", sonarSweep2(sonarReadings));
-console.log("Using sliding window: ", sonarSweep3(sonarReadings));
+console.log("Part 1.1 test: ", sonarSweep1(testSonarReadings));
+console.log("Part 1.2 test: ", sonarSweep2(testSonarReadings));
+console.log("Part 2 test: ", sonarSweep3(testSonarReadings));
 
-console.log("TEST - Using reducer with external counter: ", sonarSweep1(testSonarReadings));
-console.log("TEST - Using reducer with internal counter: ", sonarSweep2(testSonarReadings));
-console.log("TEST - Using sliding window: ", sonarSweep3(testSonarReadings));
+console.log("Part 1.1 answer: ", sonarSweep1(sonarReadings));
+console.log("Part 1.2 answer: ", sonarSweep2(sonarReadings));
+console.log("Part 2 answer: ", sonarSweep3(sonarReadings));
