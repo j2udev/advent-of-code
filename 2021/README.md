@@ -6,14 +6,18 @@ I've been stuck in DevOps land for about a year, so let's shake off the rust!
 
 ## Day 1
 
-Completed in Javascript 💛
+Completed in JavaScript 💛
 
 ### [Question](https://adventofcode.com/2021/day/1)
 ### ⭐ [Solution](./1) ⭐
 
 ## Day 2
 
+Completed in TypeScript 💙
+
 ### [Question](https://adventofcode.com/2021/day/2)
+
+### ⭐ [Solution](./2) ⭐
 
 ## Day 3
 
