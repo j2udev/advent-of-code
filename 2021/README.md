@@ -21,3 +21,11 @@ Completed in Golang 💙
 
 ### [Question](https://adventofcode.com/2021/day/3)
 ### ⭐ [Solution](./3) ⭐
+
+## Day 4
+
+Completed in Python 💛
+
+### [Question](https://adventofcode.com/2021/day/4)
+
+### ⭐ [Solution](./4) ⭐
