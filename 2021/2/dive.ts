@@ -18,7 +18,7 @@ enum Direction {
 function readFile(filename: string): Position[] {
   let plannedCourse = fs.readFileSync(filename, "utf-8")
     .split("\n")
-    .map(x => {
+    .map((x: string) => {
       let y = x.split(" ")
       return new Position(y[0], parseInt(y[1]))
     })
@@ -83,5 +83,5 @@ function part2Position(positions: Position[]): number {
 const plannedCourse = readFile("input.txt")
 let part1 = part1Position(plannedCourse)
 let part2= part2Position(plannedCourse)
-console.log(part1)
-console.log(part2)
+console.log("Part 1: ", part1)
+console.log("Part 2: ", part2)
