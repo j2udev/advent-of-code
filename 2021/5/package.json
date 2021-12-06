@@ -1,0 +1,14 @@
+{
+  "name": "hydrothermal-venture",
+  "version": "1.0.0",
+  "description": "aoc-2021",
+  "main": "hydrothermal-venture.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  }
+}
