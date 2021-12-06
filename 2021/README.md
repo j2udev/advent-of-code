@@ -33,3 +33,11 @@ Completed in Python 💛
 ### [Question](https://adventofcode.com/2021/day/4)
 
 ### ⭐ [Solution](./4) ⭐
+
+## Day 5
+
+Completed in TypeScript 💙
+
+### [Question](https://adventofcode.com/2021/day/4)
+
+### ⭐ [Solution](./5) ⭐
