@@ -4,6 +4,8 @@ I'll be mixing it up and trying a few different languages 😎
 
 I've been stuck in DevOps land for about a year, so let's shake off the rust!
 
+Considering both of the points above, I make no promises about the quality of these solutions 😅
+
 ## Day 1
 
 Completed in JavaScript 💛
