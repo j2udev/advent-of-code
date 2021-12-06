@@ -76,7 +76,7 @@ def findWinningBoard():
       winningBoard = colwin
       winningNum = pool[counter - 1]
     counter += 1
-  print(calcBoard(winningNum, winningBoard))
+  print("Part 1: ", calcBoard(winningNum, winningBoard))
 
 def findLosingBoard():
   # bingo = readFile("test-input.txt")
@@ -101,7 +101,7 @@ def findLosingBoard():
       counter += 1
     rowwin = None
     colwin = None
-  print(calcBoard(lastWinningNum, lastWinningBoard))
+  print("Part 2: ", calcBoard(lastWinningNum, lastWinningBoard))
 
 findWinningBoard()
 findLosingBoard()
