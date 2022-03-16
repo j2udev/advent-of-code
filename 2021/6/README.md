@@ -1,4 +1,4 @@
-# Lanternfish
+# Day 6: Lanternfish
 
 ## Epilogue
 
